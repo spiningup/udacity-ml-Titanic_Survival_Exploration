@@ -1,4 +1,6 @@
-## Udacity Machine Learning Nanodegree Project - Titanic Survival Exploration
+## Udacity MLND Project - Titanic Survival Exploration
+
+This Project aims at predicting survival outcomes, achieving at least 80% accuracy, from the 1912 Titanic disaster based on each passenger’s features, such as sex and age.
 
 ### Install
 
